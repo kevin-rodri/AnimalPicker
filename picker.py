@@ -3,3 +3,5 @@ if userInput.lower() == "dog":
     print("Dog ASCII ART HERE")
 elif userInput.lower() == "cat":
     print("Cat ASCII ART HERE")
+else: 
+    print("Invalid option")
